@@ -3,7 +3,7 @@ Hey, I'm Saahil!<br><br>
 I am currently pursuing a Bachelor of Science in Computer Science with a specialization in Artificial Intelligence and Information Internetworks at the Georgia Institute of Technology.<br><br>
 With a passion for app and web development, I have built full-stack applications for both Android and iOS, and developed dynamic websites utilizing various tech stacks.<br><br>
 At the College of Computing, I am involved in research on evolutionary algorithms, leveraging the DEAP library to optimize AI solutions. My current focus is on island migration techniques and their benefits on algorithm performance.<br><br>
-I am interested n software engineering, machine learning, and/or data science. Feel free to reach out to me at saahilkhanna100@gmail.com or connect with me on LinkedIn.<br><br>
+I am interested in software engineering, DevOps and/or machine learning. Feel free to reach out to me at saahilkhanna100@gmail.com or connect with me on LinkedIn.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saahil-khanna-350617219) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saahilkhanna01)
